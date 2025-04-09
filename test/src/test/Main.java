@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("Testing making change from Github");
 		System.out.println("Testing making change from eclipse");
 		System.out.println("Making another change");
+		System.out.println("Making YET another change from eclipse");
 		}
 
 }
